@@ -1,0 +1,50 @@
+.form-wrap {
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 10% 42% auto;
+    background: #fff;
+    padding: 5px;
+    overflow: hidden;
+}
+.input-group {
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border: none;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+.submit {
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, #d2d2d2, #d2d2d2);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+}
+span {
+    color: #777;
+    font-size: 12px;
+    bottom: 68px;
+    position: absolute;
+}
+#login {
+    left: 50px;
+}
+
+button{ 
+  background:none; border:0;
+  cursor:pointer;
+  font-size:15px;
+   }

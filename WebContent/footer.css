@@ -1,0 +1,29 @@
+footer {
+  padding : 200px 0 0;
+  text-align: center;
+}
+
+footer .footerLogo {
+  font-size : 40px;
+  font-weight : 900;
+  letter-spacing : -6px;
+  color: #39312b;
+  margin : 40px 0 20px;
+}
+
+footer .ul li {
+  font-size:17px;
+  line-height: 1.4;
+}
+
+footer .box {
+  padding: 150px 0;
+  background: url(png/bottom_bg.jpg) no-repeat center/cover;
+  margin-top:80px;
+}
+
+footer .box h2{
+  color: #fff;
+  font-size: 22px;
+  font-weight: normal;
+}

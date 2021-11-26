@@ -1,0 +1,35 @@
+.hero {
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+    background-image:  url(png/page-top-bg.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+
+    text-align: center;
+}
+.hero2
+{
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+    background-image:  url(png/Online-Community.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+
+    text-align: center;
+}
+.hero__title {
+    display: inline-block;
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+}
+.hero2__title {
+    display: inline-block;
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+}
